@@ -1,6 +1,3 @@
-# MIT License
-# Copyright (c) 2019-2022 JetsonHacks
-
 # A simple code snippet
 # Using two  CSI cameras (such as the Raspberry Pi Version 2) connected to a
 # NVIDIA Jetson Nano Developer Kit with two CSI ports (Jetson Nano, Jetson Xavier NX) via OpenCV

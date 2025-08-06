@@ -1,6 +1,3 @@
-// simple_camera.cpp
-// MIT License
-// Copyright (c) 2019-2022 JetsonHacks
 // See LICENSE for OpenCV license and additional information
 // Using a CSI camera (such as the Raspberry Pi Version 2) connected to a 
 // NVIDIA Jetson Nano Developer Kit using OpenCV
