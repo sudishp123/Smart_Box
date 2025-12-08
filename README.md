@@ -43,7 +43,5 @@ This repository contains a folder named:
 
 This folder is dedicated to:
 
-* Camera interfacing scripts
-* Image and video capture
-* Computer vision experiments
-* Any
+* Camera Interfacing Scripts
+* Face Detect Script
